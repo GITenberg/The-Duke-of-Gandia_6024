@@ -1,5 +1,5 @@
 _repo: The-Duke-of-Gandia_6024
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -33,5 +33,6 @@ subjects:
 - !lcsh 'Alexander VI, Pope, 1431-1503 -- Drama'
 - !lcsh 'Borgia, Lucrezia, 1480-1519 -- Drama'
 - !lcsh 'Italy -- History -- Drama'
+- GITenberg
 title: The Duke of Gandia
 url: http://www.gutenberg.org/ebooks/6024
